@@ -1,0 +1,11 @@
+.Done-content{
+    color: greenyellow;
+}
+
+.Done-content{
+    width: 100%;
+    background: rgba(255, 255, 255, .5);
+    padding: 10px;
+    margin: 6px o;
+    overflow: hidden;
+}

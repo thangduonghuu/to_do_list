@@ -1,0 +1,25 @@
+.To_Do_Item-content{
+    width: 100%;
+    background: rgba(255, 255, 255, .5);
+    padding: 5px;
+    margin: 6px o;
+    overflow: hidden;
+    border: none;
+    border-radius: 5px;
+}
+.To_Do_Item-content img{
+    background: none;
+}
+.content{
+    color: black;
+}
+.To_Do_Item-content  p{
+    position: relative;
+    margin-top: 15px;
+    background: none;
+    margin-left: 10px;
+}
+.trash-can{
+    background: none;
+    right: 0;
+}
